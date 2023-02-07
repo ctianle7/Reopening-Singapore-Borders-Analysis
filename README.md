@@ -23,7 +23,7 @@ ___
 1. Analysis Folder - contains notebooks, scripts, and findings for our analysis
 2. Data Folder - contains raw and pre-processed data
 3. Data Preparation Folder - contains notebooks and scripts for cleaning and pre-processing of data before modeling and analysis
-4. final_notebook.ipynb is the jupyter notebook of the final model
+4. [final_notebook.ipynb](https://github.com/ctianle7/Reopening-Singapore-Borders-Analysis/blob/main/final_notebook.ipynb) is the jupyter notebook of the final model
 ___
 ### Contributors
 1. Ang Rachel
