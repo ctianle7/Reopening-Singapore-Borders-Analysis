@@ -21,8 +21,8 @@ We retrieved a total of 13,899 comments from 102 Youtube videos from the first d
 ___
 ### Code Navigation
 1. Analysis Folder - contains notebooks, scripts, and findings for our analysis
-2. Data Folder - contains raw and pre-processed data
-3. Data Preparation Folder - contains notebooks and scripts for cleaning and pre-processing of data before modeling and analysis
+2. Data Preparation Folder - contains notebooks and scripts for cleaning and pre-processing of data before modeling and analysis
+3. Data Folder - contains raw and pre-processed data
 4. [final_notebook.ipynb](https://github.com/ctianle7/Reopening-Singapore-Borders-Analysis/blob/main/final_notebook.ipynb) is the jupyter notebook of the final model
 ___
 ### Contributors
